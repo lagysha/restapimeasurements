@@ -1,6 +1,7 @@
 HELP.md
 API/target/
 Client/target/
+*/target/*
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -16,7 +17,7 @@ API/src/main/resources/application.properties
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea
+.idea/
 *.iws
 *.iml
 *.ipr
